@@ -10,8 +10,8 @@ Abrir una página local que muestre el nombre del juego.
 
 **Tareas**
 
-- [ ] Crear una página mínima y servirla con un servidor web local.
-- [ ] Mostrar el título «flappy edem».
+- [x] Crear una página mínima y servirla con un servidor web local.
+- [x] Mostrar el título «flappy edem».
 
 **Comprobación en el navegador**
 
